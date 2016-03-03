@@ -6,4 +6,5 @@ This is the official repository of the San Francisco iOS/Android Discover.Design
 
 # Slack domain:
 https://sf-ios-android-ddbl.slack.com
+
 Ask for an invitation from someone so that you can join the discussions!
